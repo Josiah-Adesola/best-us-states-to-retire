@@ -1,7 +1,15 @@
 # Best-us-states-to-retire
 
 ------------------------------------------------
+# TABLE OF CONTENT
 
+* PROBLEM STATEMENT
+* DATA SOURCING
+* DATA TRANSFORMATION
+* DATA ANALYSIS AND VISUALIZATION
+* FINDINGS AND RECOMMENDATIONS
+
+--------------------------------------------------
 # PROBLEM STATEMENT
 
 According to Statista.com, 16.9 percent of the US population are old persons between the age of 65 and above. After years of working and toiling for the nation, it's expedient that a person look for the best vicinity to stay. As a child, you might be in the best place to advise your parent. 
