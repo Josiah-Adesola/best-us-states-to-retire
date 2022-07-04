@@ -53,11 +53,11 @@ I used PowerBI for  visualization. It was an awesome process, I visualized the t
 
 # FINDINGS AND RECOMMENDATIONS
 
-* The overall best state to live in is Massachusetts.
-* The overall worst state to live in is Georgia.
-* New mexico has the highest crime rate
-* Mississippi ranked the healthiest state.
-* New mexico has the most extreme weather condition..
+* The overall best state to retire in is Georgia.
+* The overall worst state to retire in is Massachusetts.
+* New Hampshire has the lowest crime rate
+* Hawaii ranked the healthiest state.
+* Arizona has the most extreme weather condition..
 
+![image](https://user-images.githubusercontent.com/59745353/177119041-ab1d36c3-4b86-4778-b669-10b3cd455b59.png)
 
-![image](https://user-images.githubusercontent.com/59745353/175834059-ed6b8616-bd5f-48ab-92bf-f04a478ef885.png)
